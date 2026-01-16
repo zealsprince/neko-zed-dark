@@ -1,9 +1,9 @@
-## Matte Black – Zed Theme
+## Neko (Dark) – Zed Theme
 
 A low-distraction dark theme for Zed.
 
-Matte Black is a crisp, low-distraction dark theme for Zed. It’s built from a minimal black base with warm, analogous accents for focus.
+Neko syntax highlighting combined with a matte, darker theme. Based on [Matte Black](https://github.com/tahayvr/matte-black-zed).
 
 ### License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

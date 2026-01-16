@@ -1,7 +1,10 @@
-id = "matte-black"
-name = "Matte Black"
+id = "neko-dark"
+name = "Neko (Dark)"
 version = "1.0.0"
 schema_version = 1
-authors = ["Taha YVR <taha@noiserandom.com>"]
+authors = [
+    "Andrew Lake <andrew@zealsprince.com>"
+    "Taha YVR <taha@noiserandom.com>"
+]
 description = "A low-distraction dark theme for Zed."
-repository = "https://github.com/tahayvr/matte-black-zed"
+repository = "https://github.com/zealsprince/neko-zed-dark"
